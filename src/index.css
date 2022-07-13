@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+.signup-content form{
+  max-width: 600px;
+  height: 500px;
+  background-color:rgb(252, 243, 244);
+  margin: auto;
+  /* margin-top: 50px; */
+  align-items: center;
+ 
+  
+}
+
+/* .signup-content input{
+  margin: auto;
+  display: grid;
+  width: 200px;
+  height: 50px;
+  grid-template-columns: 200px 300px;
+  row-gap: 10px; 
+   background-color: antiquewhite;
+  align-items: center;
+} */
+
+#one{
+  width: 200px;
+  height: 30px;
+  display: grid;
+  text-align: center;
+  margin: auto;  
+  row-gap: 10px; 
+ 
+}
+
+#two{
+  width: 200px;
+  height: 30px;
+  display: grid;
+  text-align: center;
+  margin: auto;  
+  row-gap: 10px; 
+  margin-top: 20px;    
+}
+
+#three{
+  width: 200px;
+  height: 30px;
+  display: grid;
+  text-align: center;
+  margin: auto;  
+  row-gap: 10px; 
+  margin-top: 20px;  
+}
+
+fieldset{
+  width: 300px;
+  height: 170px;
+  margin-left: 100px;
+  margin-top: 10px;
+  background-color: rgb(204, 237, 237);
+}
+
+fieldset input{
+  display: grid;
+  grid-template-columns: 250px 150px;
+ row-gap: 10px;
+ margin-top: 10px;
+
+
+}
+
+fieldset label{
+  margin-top: 0px;
+  
+ 
+}
+#btn{
+  background-color: aqua;
+  border-radius:  4px;
+  width: 70px;
+  height: 30px;
+  margin-top: 10px;
+  
+}
+.landing{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+width: 300px;
+height: 200px;
+background-color: bisque;
+border-radius: 10px;
+padding: 10px;
+text-align: center;
+}
+.landing button{
+  background-color:white;
+  color: brown;
+  padding: 10px;
+  font-size: 20px;
+  border: solid white 1px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.landing button :hover{
+  color: white;
+  background-color: antiquewhite;
+  transition: 0.2s;
+}
+.landing h2{
+color: brown;
+margin: 5px;
+}
+
+
+
+/* .signup-content fieldset legend input{
+  width: 100px;
+  height: 150px;
+  align-items: center;
+}
+  */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+.add-task h1{
+  margin-bottom :40px;
+  
+  color: brown;
+ text-align: center;
+}
+.add-task form{
+  border-radius: 10px;
+  width: 500px;
+  height: 300px;
+  display: grid;
+  grid-template-columns: 100px 200px;
+  row-gap: 0px;
+  column-gap: 1px;
+  align-items: center;
+  background-color: rgb(245, 155, 155);
+  margin-left: 40%;
+}
+.add-task input{
+  align-items: center;
+  border-radius: 5px;
+ 
+}

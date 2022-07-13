@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "deepika",
+      "email": "deepikabs163@gmail.com",
+      "password": "deepshu",
+      "gender": "Female",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "gender": "",
+      "id": 2
+    },
+    {
+      "name": "bhuvi",
+      "email": "bhuvannaraayan@123",
+      "password": "bhivin",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "email": "abc@12",
+      "password": "123",
+      "gender": "Female",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "gender": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "gender": "",
+      "id": 6
+    },
+    {
+      "name": "deepika",
+      "email": "deepikabs163@gmail.com",
+      "password": "deepshu",
+      "gender": "Female",
+      "id": 7
+    }
+  ]
+}
